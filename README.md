@@ -1,5 +1,3 @@
-<img style="border-radius:100%" width="300" src="https://kamal131.vercel.app/images/kamal.jpg" >
-
 # I'm Kamaldeep , a Full-Stack MERN Developer  
 I'm passionate about building web applications and creating seamless user experiences. With a strong foundation in the **MERN** stack (MongoDB, Express, React, and Node.js), I love working on both the front-end and back-end to bring ideas to life. Here's a bit about what I do:
 
